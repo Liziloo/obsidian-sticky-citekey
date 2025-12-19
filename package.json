@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-sticky-citekey",
+  "version": "0.1.0",
+  "description": "Reuse a citekey across multiple facts in Obsidian",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "esbuild main.ts --bundle --platform=node --external:obsidian --outfile=dist/main.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.5.0",
+    "typescript": "^5.0.0"
+  }
+}
