@@ -1,0 +1,10 @@
+{
+  "id": "sticky-citekey",
+  "name": "Sticky Citekey",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Reuse a citekey across multiple facts in Obsidian",
+  "author": "Liz",
+  "authorUrl": "https://github.com/YOUR_GITHUB_USERNAME",
+  "isDesktopOnly": true
+}
